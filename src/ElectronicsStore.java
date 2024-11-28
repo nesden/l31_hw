@@ -62,7 +62,7 @@ public class ElectronicsStore {
 
                 } else {
                     System.out.println("your card has expired");
-                    //cheese
+
                 }
                 break;
             case "check":
